@@ -2,8 +2,14 @@
 
 h1 {
 color: grey;
-font-size:40px;
+font-size:26px;
+display: inline-block;
 }
 h1:hover {
 color: black;
+display: inline-block;
+background-color: grey;
+font-size:26px;
+padding: 50;
+border-radius:10px;
 }
