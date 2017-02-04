@@ -8,7 +8,8 @@ header nav {
 display: flex;
 justify-content: flex-end;
 }
-.container {
-background-color:#9C9C9C;
+body {
+background-color:#E3E3E3;
+font-family:"Roboto", sans-serif;
 }
 
