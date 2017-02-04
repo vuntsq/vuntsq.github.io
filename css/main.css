@@ -1,9 +1,14 @@
 /*see on minu css fail*/
 
 header .row {
-display:inline-block;
+display:flex;
 align-items:center;
+}
+header nav {
+display: flex;
+justify-content: flex-end;
 }
 .container {
 background-color:#9C9C9C;
 }
+
