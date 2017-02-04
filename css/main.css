@@ -1,9 +1,9 @@
 /*see on minu css fail*/
 
 header .row {
-display:flex;
+display:inline-block;
 align-items:center;
 }
-body {
-background-color:#dbdbdb;
+.container {
+background-color:#9C9C9C;
 }
