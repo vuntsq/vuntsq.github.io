@@ -1,10 +1,5 @@
 /*see on minu css fail*/
 
-body {
-font-family:'Trebuchet MS', Helvetica, sans-serif;
-font-weight: 500;
-background-color:#DEDEDE;
-}
 header nav {
 display:flex;
 justify-content:flex-end;
@@ -14,15 +9,21 @@ display:flex;
 align-items:center;
 }
 header p {
-margin:50px;
+margin:40px;
 font-size:20px;
-color:#4C4C4C;
 }
 header h1 {
 margin-left:40px;
 margin-bottom:20px;
 }
+header p a {
+color:#4C4C4C;
+}
 header p a:hover {
 text-decoration: none;
-background-color:#BEBEBE;
+color:#0C0C0C;
+}
+.container {
+background-color:#DEDEDE;
+font-family:'Trebuchet MS', Helvetica, sans-serif;
 }
