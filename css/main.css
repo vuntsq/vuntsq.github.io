@@ -23,10 +23,13 @@ header p a:hover {
 text-decoration: none;
 color:#0C0C0C;
 }
-header .container,
-footer .container {
+body .container {
 background-color:#DEDEDE;
 font-family:'Trebuchet MS', Helvetica, sans-serif;
+width:100%;
+}
+body section .container {
+background-color:transparent;
 }
 .jumbotron {
 display:flex;
@@ -34,5 +37,24 @@ align-items:center;
 background-image:url("https://vuntsq.github.io/kaneel.jpg");
 background-size:cover;
 height: 500px;
-text-shadow:0.25px 0.25px 0.25px #000000;
+}
+#yea,
+div h3 {
+color:#FFFFFF;
+text-shadow:5px 5px 10px black;
+}
+footer div p {
+margin-left:10;
+padding:10 10 0;
+}
+#wow {
+margin-top:-30;
+padding:40 10 30;
+background-color:#DEDEDE;
+width:100%;
+font-size:20;
+}
+#sss {
+border-top:5px solid;
+padding-top:10;
 }
