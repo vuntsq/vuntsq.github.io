@@ -23,7 +23,8 @@ header p a:hover {
 text-decoration: none;
 color:#0C0C0C;
 }
-.container {
+header .container,
+footer .container {
 background-color:#DEDEDE;
 font-family:'Trebuchet MS', Helvetica, sans-serif;
 }
