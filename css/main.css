@@ -27,3 +27,11 @@ color:#0C0C0C;
 background-color:#DEDEDE;
 font-family:'Trebuchet MS', Helvetica, sans-serif;
 }
+.jumbotron {
+display:flex;
+align-items:center;
+background-image:url("https://vuntsq.github.io/kaneel.jpg");
+background-size:cover;
+height: 500px;
+text-shadow:0.25px 0.25px 0.25px #000000;
+}
