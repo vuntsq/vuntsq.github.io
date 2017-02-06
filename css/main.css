@@ -45,14 +45,13 @@ text-shadow:5px 5px 10px black;
 }
 footer div p {
 margin-left:10;
-padding:10 10 0;
 }
 #wow {
 margin-top:-30;
 padding:40 10 30;
 background-color:#DEDEDE;
 width:100%;
-font-size:20;
+font-size:20px;
 }
 #sss {
 border-top:5px solid;
