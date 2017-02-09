@@ -35,4 +35,53 @@ padding-top:10px;
 footer div p {
 margin-left:10px;
 }
-
+#eee {
+border-top:5px solid;
+}
+#yeye1,
+#yeye2,
+#yeye3,
+#yeye4 {
+display:inline-block;
+justify-content:center;
+width:400px;
+height:400px;
+font-size:25px;
+border:10px solid;
+border-radius:4%;
+}
+#yeye1 {
+background-image:url("http://vuntsq.github.io/pildid/pirukad1.jpg");
+}
+#yeye2 {
+background-image:url("http://vuntsq.github.io/pildid/pirukad2.jpg");
+}
+#yeye3 {
+background-image:url("http://vuntsq.github.io/pildid/pirukad3.jpg");
+}
+#yeye4 {
+background-image:url("http://vuntsq.github.io/pildid/pirukad4.jpg");
+}
+#lisa {
+opacity:0;
+color:white;
+width:380px;
+height:380px;
+display:flex;
+align-items:center;
+margin-left:-15px;
+border-radius:1%;
+padding:20px 30px 300px;
+}
+#lisa:hover{
+opacity:1;
+background-color:rgba(130,130,130,0.8);
+}
+.yeye {
+display:flex;
+justify-content:center;
+margin-top:20px;
+}
+#hess {
+margin-bottom:20px;
+}
