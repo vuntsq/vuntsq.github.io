@@ -23,7 +23,16 @@ header p a:hover {
 text-decoration: none;
 color:#0C0C0C;
 }
-.container {
+body .container {
 background-color:#DEDEDE;
 font-family:'Trebuchet MS', Helvetica, sans-serif;
+width:100%;
 }
+#sss {
+border-top:5px solid;
+padding-top:10px;
+}
+footer div p {
+margin-left:10px;
+}
+
