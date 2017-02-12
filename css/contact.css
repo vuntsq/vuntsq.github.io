@@ -35,4 +35,14 @@ padding-top:10px;
 footer div p {
 margin-left:10px;
 }
-
+#sese {
+border-top:5px solid;
+padding-top:10px;
+font-size:16px;
+}
+.col-xs-4 {
+display:flex;
+justify-content:center;
+align-content:center;
+flex-wrap:wrap;
+}
